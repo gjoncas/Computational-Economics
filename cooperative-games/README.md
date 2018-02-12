@@ -18,3 +18,9 @@ Therefore, this project consists of the following parts:
 
 The literature on cooperative games in CS tends to use advanced computational tools, but fairly shallow economic theory.
 This project aims in part to find more <i>economically</i> interesting applications for CS-based methods.
+
+&nbsp;
+
+## Updates
+
+18.02.12: Added working paper – “The Shapley Value: An Extremely Short Introduction” (<a href="https://github.com/gjoncas/Computational-Economics/blob/master/cooperative-games/shapley%20value.pdf">2015</a>)
