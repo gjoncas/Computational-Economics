@@ -1,6 +1,5 @@
 Here, I'll experiment with algorithms for solution concepts in cooperative game theory. Cooperative games are remarkably versatile,
-showing up in any applications involving fair division, whether splitting a taxi fare or allocating resources on a network. Such 
-problems revolve around solution concepts designed to satisfy pre-specified fairness axioms.
+showing up in any applications involving fair division, whether splitting a taxi fare or allocating resources on a network. To deal with these problems, we use a variety of solution concepts, each of which satisfies different fairness axioms (e.g. emphasizing equity over equality, or vice versa).
 
 A major problem is that many solution concepts are computationally hard. For example, the Shapley value formula involves factorials,
 so its complexity increases very fast as the number of players gets larger. However, we can recast the Shapley value as a problem 
