@@ -5,6 +5,9 @@ Economics diagrams I’ve made using Ti𝑘Z.
 <b>Chiang & Wainwright - <i>Fundamental Methods of Mathematical Economics</i> (4th Ed.), p. 619, fig. 19.3</b>
 <br>2018.02.02: Finished. &nbsp;[types of equilibria]
 
+<b>Das & N’Diaye - “Chronicle of a Decline Foretold: Has China Reached the Lewis Turning Point?” (<a href="http://www.imf.org/external/pubs/ft/wp/2013/wp1326.pdf">2013</a>), fig. 1a</b>
+<br>2018.03.26: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Dual-sector_model">Lewis dual-sector model</a>]
+
 <b>Easley & Kleinberg - <i>Networks, Crowds, and Markets</i> (2010), pp. 208-9</b>
 <br>2018.03.04: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Braess%27s_paradox">Braess paradox</a>]
 
