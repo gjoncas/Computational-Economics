@@ -1,0 +1,49 @@
+\documentclass{scrartcl}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+\begin{document}
+	
+	\begin{tikzpicture}
+	%lines
+	\draw[thick] (0,0)--(-2.35,-4)--(2.35,-4)--cycle;
+	
+	%labels
+	\node at (0,-4.4)  {\small Exchange rate stability};
+	\node at (1.7,-2)  {\rotatebox{-59}{\small Financial market openness$\;\;$}};
+	\node at (-1.7,-2) {\rotatebox{59}{\small Sovereign monetary policy$\!\!$}};
+	\end{tikzpicture}
+	
+	
+	\vspace{0.75cm}
+	
+	
+	\begin{tikzpicture}
+	%lines
+	\draw[thick] (0,0)--(-2.35,-4)--(2.35,-4)--cycle;
+	
+	%labels
+	\node at (0,-4.4)	{\small Exchange rate stability};
+	\node at (1.65,-2)	{\rotatebox{-59}{\small Financial market openness$\;\;$}};
+	\node at (-1.65,-2) {\rotatebox{59}{\small Sovereign monetary policy$\!\!$}};
+	
+	%vertex labels
+	\node[gray] at (-1.5,-3.5)	{\scriptsize Capital};
+	\node[gray] at (-1.5,-3.8)	{\scriptsize controls};
+	\node[gray] at (1.4,-3.5) 	{\scriptsize Currency};
+	\node[gray] at (1.4,-3.8) 	{\scriptsize board};
+	\node[gray] at (0,-1.1) 	{\scriptsize Floating};
+	\node[gray] at (0,-1.4) 	{\scriptsize exchange};
+	\node[gray] at (0,-1.7) 	{\scriptsize rate};
+	\end{tikzpicture}
+
+	%vertex labels - outside triangle
+%	\node[gray] at (-2.55,-4.3){\scriptsize Capital};
+%	\node[gray] at (-2.55,-4.6){\scriptsize controls};
+%	\node[gray] at (2.55,-4.3) {\scriptsize Currency};
+%	\node[gray] at (2.55,-4.6) {\scriptsize board};
+%	\node[gray] at (0,0.6) 	 {\scriptsize Floating};
+%	\node[gray] at (0,0.3) 	 {\scriptsize exchange rate};	
+\end{document}
