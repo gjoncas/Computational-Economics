@@ -17,6 +17,9 @@ Economics diagrams I’ve made using Ti𝑘Z.
 <b>Kwan - “Business Cycle in China since the Lehman Crisis” (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-124X.2013.12036.x">2013</a>), fig. 4-5</b>
 <br>2018.03.25: Finished. &nbsp;[business cycles]
 
+<b>Oxelheim - <i>International Financial Integration</i> (1990),  fig. 1.2</b>
+<br>2018.03.27: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Impossible_trinity">impossible trinity</a>]
+
 <b>Zollman, Bergstrom, Huttegger - “Between Cheap and Costly Signals” (<a href="http://rspb.royalsocietypublishing.org/content/early/2012/11/06/rspb.2012.1878">2012</a>), fig. 2</b>
 <br>2018.02.24: Finished. &nbsp;[<a href="https://www.rhayden.us/nash-equilibrium/problems-section-41.html">signaling games</a>]
 
